@@ -1,0 +1,15 @@
+/Users/julien/Documents/GitHub/Mastermind-C-/Mastermind/bin/Release/net6.0/Mastermind
+/Users/julien/Documents/GitHub/Mastermind-C-/Mastermind/bin/Release/net6.0/Mastermind.deps.json
+/Users/julien/Documents/GitHub/Mastermind-C-/Mastermind/bin/Release/net6.0/Mastermind.runtimeconfig.json
+/Users/julien/Documents/GitHub/Mastermind-C-/Mastermind/bin/Release/net6.0/Mastermind.dll
+/Users/julien/Documents/GitHub/Mastermind-C-/Mastermind/bin/Release/net6.0/Mastermind.pdb
+/Users/julien/Documents/GitHub/Mastermind-C-/Mastermind/obj/Release/net6.0/Mastermind.csproj.AssemblyReference.cache
+/Users/julien/Documents/GitHub/Mastermind-C-/Mastermind/obj/Release/net6.0/Mastermind.GeneratedMSBuildEditorConfig.editorconfig
+/Users/julien/Documents/GitHub/Mastermind-C-/Mastermind/obj/Release/net6.0/Mastermind.AssemblyInfoInputs.cache
+/Users/julien/Documents/GitHub/Mastermind-C-/Mastermind/obj/Release/net6.0/Mastermind.AssemblyInfo.cs
+/Users/julien/Documents/GitHub/Mastermind-C-/Mastermind/obj/Release/net6.0/Mastermind.csproj.CoreCompileInputs.cache
+/Users/julien/Documents/GitHub/Mastermind-C-/Mastermind/obj/Release/net6.0/Mastermind.dll
+/Users/julien/Documents/GitHub/Mastermind-C-/Mastermind/obj/Release/net6.0/refint/Mastermind.dll
+/Users/julien/Documents/GitHub/Mastermind-C-/Mastermind/obj/Release/net6.0/Mastermind.pdb
+/Users/julien/Documents/GitHub/Mastermind-C-/Mastermind/obj/Release/net6.0/Mastermind.genruntimeconfig.cache
+/Users/julien/Documents/GitHub/Mastermind-C-/Mastermind/obj/Release/net6.0/ref/Mastermind.dll

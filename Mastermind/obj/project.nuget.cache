@@ -1,8 +1,18 @@
 {
   "version": 2,
-  "dgSpecHash": "VVWMVHYGLOCh3gwJpVMYWnVQPdbNKSJnn2yON+NnkIUel+Fo53KBZQyD60Pnk0vpjNIAKkUISANq7Tb19SbEng==",
+  "dgSpecHash": "Q38eD1xXBcKgu6MW7Pj5H6s6B9QMlEZWtJhw1jP93pZFd1Kc17qfrr9Ptb197pL54xxiotz9OP4tlWwbtyaViA==",
   "success": true,
   "projectFilePath": "/Users/julien/Documents/GitHub/Mastermind-C-/Mastermind/Mastermind.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/Users/julien/.nuget/packages/microsoft.netcore.app.runtime.win-x64/6.0.15/microsoft.netcore.app.runtime.win-x64.6.0.15.nupkg.sha512",
+    "/Users/julien/.nuget/packages/microsoft.netcore.app.runtime.osx-x64/6.0.15/microsoft.netcore.app.runtime.osx-x64.6.0.15.nupkg.sha512",
+    "/Users/julien/.nuget/packages/microsoft.netcore.app.runtime.linux-x64/6.0.15/microsoft.netcore.app.runtime.linux-x64.6.0.15.nupkg.sha512",
+    "/Users/julien/.nuget/packages/microsoft.aspnetcore.app.runtime.win-x64/6.0.15/microsoft.aspnetcore.app.runtime.win-x64.6.0.15.nupkg.sha512",
+    "/Users/julien/.nuget/packages/microsoft.aspnetcore.app.runtime.osx-x64/6.0.15/microsoft.aspnetcore.app.runtime.osx-x64.6.0.15.nupkg.sha512",
+    "/Users/julien/.nuget/packages/microsoft.aspnetcore.app.runtime.linux-x64/6.0.15/microsoft.aspnetcore.app.runtime.linux-x64.6.0.15.nupkg.sha512",
+    "/Users/julien/.nuget/packages/microsoft.netcore.app.host.win-x64/6.0.15/microsoft.netcore.app.host.win-x64.6.0.15.nupkg.sha512",
+    "/Users/julien/.nuget/packages/microsoft.netcore.app.host.osx-x64/6.0.15/microsoft.netcore.app.host.osx-x64.6.0.15.nupkg.sha512",
+    "/Users/julien/.nuget/packages/microsoft.netcore.app.host.linux-x64/6.0.15/microsoft.netcore.app.host.linux-x64.6.0.15.nupkg.sha512"
+  ],
   "logs": []
 }

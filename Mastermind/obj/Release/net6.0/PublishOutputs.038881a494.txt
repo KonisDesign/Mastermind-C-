@@ -1,0 +1,5 @@
+/Users/julien/Documents/GitHub/Mastermind-C-/Mastermind/bin/Release/net6.0/publish/Mastermind
+/Users/julien/Documents/GitHub/Mastermind-C-/Mastermind/bin/Release/net6.0/publish/Mastermind.dll
+/Users/julien/Documents/GitHub/Mastermind-C-/Mastermind/bin/Release/net6.0/publish/Mastermind.deps.json
+/Users/julien/Documents/GitHub/Mastermind-C-/Mastermind/bin/Release/net6.0/publish/Mastermind.runtimeconfig.json
+/Users/julien/Documents/GitHub/Mastermind-C-/Mastermind/bin/Release/net6.0/publish/Mastermind.pdb
