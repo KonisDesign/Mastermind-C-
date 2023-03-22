@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/julien/Documents/VS/Mastermind/Mastermind/Mastermind.csproj",
+      "projectUniqueName": "/Users/julien/Documents/GitHub/Mastermind-C-/Mastermind/Mastermind.csproj",
       "projectName": "Mastermind",
-      "projectPath": "/Users/julien/Documents/VS/Mastermind/Mastermind/Mastermind.csproj",
+      "projectPath": "/Users/julien/Documents/GitHub/Mastermind-C-/Mastermind/Mastermind.csproj",
       "packagesPath": "/Users/julien/.nuget/packages/",
-      "outputPath": "/Users/julien/Documents/VS/Mastermind/Mastermind/obj/",
+      "outputPath": "/Users/julien/Documents/GitHub/Mastermind-C-/Mastermind/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/julien/.nuget/NuGet/NuGet.Config"
