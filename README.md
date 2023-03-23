@@ -12,3 +12,8 @@ To deploy this project run
   Exec Mastermind file in Mastermind/bin/Debug/net6.0/
 ```
 
+or
+
+```bash
+  Run Mastermind.csproj in Visual studio and Debug it
+```
