@@ -1,25 +1,32 @@
 {
   "format": 1,
   "restore": {
-    "/Users/julien/Documents/GitHub/Mastermind-C-/Mastermind/Mastermind.csproj": {}
+    "C:\\Users\\Administrateur\\Documents\\GitHub\\Mastermind-C-\\Mastermind\\Mastermind.csproj": {}
   },
   "projects": {
-    "/Users/julien/Documents/GitHub/Mastermind-C-/Mastermind/Mastermind.csproj": {
+    "C:\\Users\\Administrateur\\Documents\\GitHub\\Mastermind-C-\\Mastermind\\Mastermind.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/julien/Documents/GitHub/Mastermind-C-/Mastermind/Mastermind.csproj",
+        "projectUniqueName": "C:\\Users\\Administrateur\\Documents\\GitHub\\Mastermind-C-\\Mastermind\\Mastermind.csproj",
         "projectName": "Mastermind",
-        "projectPath": "/Users/julien/Documents/GitHub/Mastermind-C-/Mastermind/Mastermind.csproj",
-        "packagesPath": "/Users/julien/.nuget/packages/",
-        "outputPath": "/Users/julien/Documents/GitHub/Mastermind-C-/Mastermind/obj/",
+        "projectPath": "C:\\Users\\Administrateur\\Documents\\GitHub\\Mastermind-C-\\Mastermind\\Mastermind.csproj",
+        "packagesPath": "C:\\Users\\Administrateur\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Administrateur\\Documents\\GitHub\\Mastermind-C-\\Mastermind\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "/Users/julien/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\Administrateur\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -48,61 +55,12 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Runtime.linux-x64",
-              "version": "[6.0.15, 6.0.15]"
-            },
-            {
-              "name": "Microsoft.AspNetCore.App.Runtime.osx-x64",
-              "version": "[6.0.15, 6.0.15]"
-            },
-            {
-              "name": "Microsoft.AspNetCore.App.Runtime.win-x64",
-              "version": "[6.0.15, 6.0.15]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Host.linux-x64",
-              "version": "[6.0.15, 6.0.15]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Host.osx-x64",
-              "version": "[6.0.15, 6.0.15]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Host.win-x64",
-              "version": "[6.0.15, 6.0.15]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Runtime.linux-x64",
-              "version": "[6.0.15, 6.0.15]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Runtime.osx-x64",
-              "version": "[6.0.15, 6.0.15]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Runtime.win-x64",
-              "version": "[6.0.15, 6.0.15]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.202/RuntimeIdentifierGraph.json"
-        }
-      },
-      "runtimes": {
-        "debian.8-x64": {
-          "#import": []
-        },
-        "osx.10.12-x64": {
-          "#import": []
-        },
-        "win10-x64": {
-          "#import": []
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     }
